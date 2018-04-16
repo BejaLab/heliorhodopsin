@@ -9,3 +9,7 @@ Abundance calculations:
 Type 1 rhodopsins and heliorhodopsins identity comparison:
 
 [blast_heatmap.ipynb](https://github.com/BejaLab/heliorhodopsin/blob/master/blast_heatmap/blast_heatmap.ipynb): Notebook to compare the `blastp` identity among type 1 rhodopsins and heliorhodopsins.
+
+The DIAMOND databases used for the metagenomic recruitment can be donwloaded from the following repository:
+
+[Heliorhodopsins: Diamond databases for the read recruitment](https://osf.io/g34bv/)
