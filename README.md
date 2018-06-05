@@ -1,6 +1,3 @@
-# "A distinct abundant group of microbial rhodopsins discovered via functional metagenomics".
-
-Scripts used in the bioinformatic analysis of the paper: "A distinct abundant group of microbial rhodopsins discovered via functional metagenomics" by Pushkarev, et al.
 
 Abundance calculations:
 
