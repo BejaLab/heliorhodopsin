@@ -1,3 +1,6 @@
+##A distinct abundant group of microbial rhodopsins discovered using functional metagenomics. 
+
+Scripts used for the bioinformatic analysis of the paper by Pushkarev, Inoue, et al. 2018. Available at: https://www.nature.com/articles/s41586-018-0225-9 and https://rdcu.be/1ebq
 
 Abundance calculations:
 
